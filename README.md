@@ -1,4 +1,4 @@
-# Creeperxie
+# Sniventals
 
 [English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.md)
 
@@ -6,6 +6,6 @@
 
 ## GitHub Readme Stats
 
-[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Sniventals's GitHub stats](https://github-readme-stats-kappa-sepia-70.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-sepia-70.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
