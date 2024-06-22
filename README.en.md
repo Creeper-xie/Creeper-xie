@@ -1,16 +1,14 @@
 # Sniventals
 
-Hi,there is Creeperxie! Cute, moe, and lovely!!
-
-[English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README-en.md)
-
 [正體中文 readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.md)
+
+[English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.en.md)
+
+Hi, here is Creeperxie! Cute, moe, and lovely!
 
 ## GPG Public key
 
->
->0830614409E640FF0C1A95FDB57342B451B5F978
->
+> 0830614409E640FF0C1A95FDB57342B451B5F978
 
 ## Email
 

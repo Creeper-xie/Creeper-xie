@@ -4,13 +4,11 @@
 
 [正體中文 readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.md)
 
-[English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README-en.md)
+[English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.en.md)
 
 ## GPG 公鑰
 
->
 > 0830614409E640FF0C1A95FDB57342B451B5F978
->
 
 ## 電子郵件
 
