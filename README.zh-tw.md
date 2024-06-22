@@ -1,5 +1,7 @@
 # Sniventals
 
+你好，這裡是Creeperxie！可愛い、萌、愛らしい!!
+
 [English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.md)
 
 [正體中文 readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.zh-tw.md)
