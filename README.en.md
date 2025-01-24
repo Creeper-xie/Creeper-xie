@@ -8,7 +8,7 @@ Hi, here is Creeperxie! Cute, moe, and lovely!
 
 ## GPG Public key
 
-> 0830614409E640FF0C1A95FDB57342B451B5F978
+ [0830614409E640FF0C1A95FDB57342B451B5F978](https://keys.openpgp.org/vks/v1/by-fingerprint/0830614409E640FF0C1A95FDB57342B451B5F978)
 
 ## Email
 
