@@ -21,8 +21,10 @@ Hi, here is Creeperxie! Cute, moe, and lovely!
 
 ## GitHub Readme Stats
 
-[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_latte&layout=compact)](https://github.com/creeper-xie#gh-light-mode-only)
+[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/creeper-xie#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_latte&layout=compact)](https://github.com/creeper-xie#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_mocha&layout=compact)](https://github.com/creeper-xie#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=creeper-xie&theme=catppuccin-mocha)](https://git.io/streak-stats)
