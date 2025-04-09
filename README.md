@@ -14,6 +14,9 @@
 
 <Creeperxie@outlook.com>
 
+## 交流群
+qq: [951194567](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=RZ2LIgNtLxJOJDGRNmZrGa3JbGJRmWxK&authKey=PUB%2FUBtQnKyowOWpp4HxSJtZJPZQoFNmvOo4Es7CXhx6dsPxfynuoGuy%2BJLz9IkY&noverify=0&group_code=951194567)
+
 ## 技術棧
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
